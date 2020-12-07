@@ -16,7 +16,7 @@ public class PrjPrueba {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("HOLA MUNDO, carga inicial Git Hub");
+        System.out.println("HOLA MUNDO, este el el primer cambio en rama develop");
         
     }
     
