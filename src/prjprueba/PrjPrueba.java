@@ -16,7 +16,7 @@ public class PrjPrueba {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("HOLA MUNDO, este el el primer cambio en rama develop");
+        System.out.println("HOLA MUNDO Este cambio sube a master");
         
     }
     
